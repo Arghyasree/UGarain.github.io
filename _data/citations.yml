@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   4Jlqf30AAAAJ:-FonjvnnhkoC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Inverse of low resolution line halftone images for document inspection
     year: '2012'
   4Jlqf30AAAAJ:1yQoGdGgb4wC:
-    citations: 35
+    citations: 36
     title: 'Pick-object-attack: Type-specific adversarial attack for object detection'
     year: '2021'
   4Jlqf30AAAAJ:2P1L_qKh6hAC:
@@ -74,7 +74,7 @@ papers:
     title: On ocr of degraded documents using fuzzy multifactorial analysis
     year: '2002'
   4Jlqf30AAAAJ:4fKUyHm3Qg0C:
-    citations: 76
+    citations: 77
     title: Named entity recognition with word embeddings and wikipedia categories for a low-resource language
     year: '2017'
   4Jlqf30AAAAJ:5Ul4iDaHHb8C:
@@ -89,6 +89,10 @@ papers:
     citations: 9
     title: 'Improvement of OCR accuracy by similar character pair discrimination: an approach based on artificial immune system'
     year: '2006'
+  4Jlqf30AAAAJ:5qfkUJPXOUwC:
+    citations: 0
+    title: Theoretical Perspective on Histogram Binning with Extension to Multi-label Medical Image Classification
+    year: '2025'
   4Jlqf30AAAAJ:5ugPr518TE4C:
     citations: 94
     title: Psoriasis skin biopsy image segmentation using Deep Convolutional Neural Network
@@ -234,7 +238,7 @@ papers:
     title: On development and statistical analysis of a corpus for printed and handwritten mathematical expressions
     year: '2002'
   4Jlqf30AAAAJ:KUbvn5osdkgC:
-    citations: 2
+    citations: 3
     title: Copula Based Trainable Calibration Error Estimator of Multi-Label Classification with Label Interdependencies.
     year: '2025'
   4Jlqf30AAAAJ:KlAtU1dfN6UC:
@@ -366,7 +370,7 @@ papers:
     title: An Independent Component Analysis Approach for Enhancing Camera Based Low Quality Text Images
     year: '2008'
   4Jlqf30AAAAJ:Tiz5es2fbqcC:
-    citations: 197
+    citations: 198
     title: Using word embeddings for automatic query expansion
     year: '2016'
   4Jlqf30AAAAJ:Tyk-4Ss8FVUC:
@@ -398,7 +402,7 @@ papers:
     title: Divergence-Aware Selective Data-to-Text Generation with LLMs for Factual Consistency
     year: '2025'
   4Jlqf30AAAAJ:UxriW0iASnsC:
-    citations: 18
+    citations: 19
     title: Unconstrained Bengali handwriting recognition with recurrent models
     year: '2015'
   4Jlqf30AAAAJ:V3AGJWp-ZtQC:
@@ -414,7 +418,7 @@ papers:
     title: DOST--Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels
     year: '2023'
   4Jlqf30AAAAJ:VOx2b1Wkg3QC:
-    citations: 23
+    citations: 24
     title: Automation of feature engineering for IoT analytics
     year: '2018'
   4Jlqf30AAAAJ:VaXvl8Fpj5cC:
@@ -442,7 +446,7 @@ papers:
     title: 'Machine Learning-Based Identification of Root Knot Nematodes: A Novel Paradigm in Precision Agriculture'
     year: '2025'
   4Jlqf30AAAAJ:WbkHhVStYXYC:
-    citations: 207
+    citations: 209
     title: 'ICFHR2016 CROHME: Competition on recognition of online handwritten mathematical expressions'
     year: '2016'
   4Jlqf30AAAAJ:Wp0gIr-vW9MC:
@@ -454,7 +458,7 @@ papers:
     title: Systems and methods for obtaining optimal mother wavelets for facilitating machine learning tasks
     year: '2022'
   4Jlqf30AAAAJ:XD-gHx7UXLsC:
-    citations: 8
+    citations: 11
     title: 'Pathologist-like explanations unveiled: An explainable deep learning system for white blood cell classification'
     year: '2024'
   4Jlqf30AAAAJ:XiSMed-E-HIC:
@@ -554,7 +558,7 @@ papers:
     title: 'Hiencor: On mining of a hi-en general purpose parallel corpus from the web'
     year: '2017'
   4Jlqf30AAAAJ:cFHS6HbyZ2cC:
-    citations: 29
+    citations: 30
     title: 'Experimenting with automatic text-to-diagram conversion: A novel teaching aid for the blind people'
     year: '2014'
   4Jlqf30AAAAJ:d1gkVwhDpl0C:
@@ -674,11 +678,11 @@ papers:
     title: Method and System for Evaluating Clinical Efficiency of Multi-label Multiclass Computational Diagnostic Models
     year: '2023'
   4Jlqf30AAAAJ:j8SEvjWlNXcC:
-    citations: 13
+    citations: 14
     title: Baseline BERT models for Conversational Hate Speech Detection in Code-mixed tweets utilizing Data Augmentation and Offensive Language Identification in Marathi.
     year: '2022'
   4Jlqf30AAAAJ:k8Z6L05lTy4C:
-    citations: 2
+    citations: 3
     title: 'KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?'
     year: '2026'
   4Jlqf30AAAAJ:kNdYIx-mwKoC:
@@ -690,7 +694,7 @@ papers:
     title: 'Summarization of compressed text images: an experience on Indic script documents'
     year: '2008'
   4Jlqf30AAAAJ:kuK5TVdYjLIC:
-    citations: 4
+    citations: 5
     title: Label dependency aware loss for reliable multi-label medical image classification
     year: '2025'
   4Jlqf30AAAAJ:kz9GbA2Ns4gC:
@@ -766,7 +770,7 @@ papers:
     title: "On foreground\u2014background separation in low quality document images"
     year: '2006'
   4Jlqf30AAAAJ:qxL8FJ1GzNcC:
-    citations: 12
+    citations: 13
     title: 'Mash up of breaking news and contextual web information: a novel service for connected television'
     year: '2010'
   4Jlqf30AAAAJ:r0BpntZqJG4C:
