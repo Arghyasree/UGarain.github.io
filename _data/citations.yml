@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   4Jlqf30AAAAJ:-FonjvnnhkoC:
     citations: 1
@@ -74,7 +74,7 @@ papers:
     title: On ocr of degraded documents using fuzzy multifactorial analysis
     year: '2002'
   4Jlqf30AAAAJ:4fKUyHm3Qg0C:
-    citations: 77
+    citations: 78
     title: Named entity recognition with word embeddings and wikipedia categories for a low-resource language
     year: '2017'
   4Jlqf30AAAAJ:5Ul4iDaHHb8C:
@@ -94,7 +94,7 @@ papers:
     title: Theoretical Perspective on Histogram Binning with Extension to Multi-label Medical Image Classification
     year: '2025'
   4Jlqf30AAAAJ:5ugPr518TE4C:
-    citations: 94
+    citations: 95
     title: Psoriasis skin biopsy image segmentation using Deep Convolutional Neural Network
     year: '2018'
   4Jlqf30AAAAJ:738O_yMBCRsC:
@@ -114,7 +114,7 @@ papers:
     title: Severity grading of psoriatic plaques using deep CNN based multi-task learning
     year: '2016'
   4Jlqf30AAAAJ:8k81kl-MbHgC:
-    citations: 79
+    citations: 80
     title: 'Crohme2011: Competition on recognition of online handwritten mathematical expressions'
     year: '2011'
   4Jlqf30AAAAJ:9Nmd_mFXekcC:
@@ -314,7 +314,7 @@ papers:
     title: 'Text to diagram conversion: A method for formal representation of natural language geometry problems'
     year: '2013'
   4Jlqf30AAAAJ:OU6Ihb5iCvQC:
-    citations: 90
+    citations: 91
     title: "Advancing the state of the art for handwritten math recognition: the CROHME competitions, 2011\u20132014"
     year: '2016'
   4Jlqf30AAAAJ:PoWvk5oyLR8C:
@@ -474,7 +474,7 @@ papers:
     title: CNN-based Knowledge Transfer between Different Families of Lightweight Block Ciphers for Cryptanalysis
     year: Unknown Year
   4Jlqf30AAAAJ:Y0pCki6q_DkC:
-    citations: 64
+    citations: 65
     title: Prototype reduction using an artificial immune model
     year: '2008'
   4Jlqf30AAAAJ:Y5dfb0dijaUC:
@@ -702,7 +702,7 @@ papers:
     title: Benchmarking deep learning models for predicting anticancer drug potency (IC50) with insights for medicinal chemists
     year: '2026'
   4Jlqf30AAAAJ:kzcrU_BdoSEC:
-    citations: 9
+    citations: 10
     title: 'MICaps: Multi-instance capsule network for machine inspection of Munro''s microabscess'
     year: '2022'
   4Jlqf30AAAAJ:l7t_Zn2s7bgC:
@@ -788,7 +788,7 @@ papers:
   4Jlqf30AAAAJ:t6usbXjVLHcC:
     citations: 3
     title: DAS 2018
-    year: Unknown Year
+    year: '2012'
   4Jlqf30AAAAJ:t7zJ5fGR-2UC:
     citations: 0
     title: STATISTICAL MODELLING OF LOG-COMPRESSED NAKAGAMI DISTRIBUTED ULTRASOUND ECHO ENVELOPE
@@ -834,7 +834,7 @@ papers:
     title: A Maximum Entropy Based Honorificity Identification for Bengali Pronominal Anaphora Resolution
     year: '2014'
   4Jlqf30AAAAJ:uc_IGeMz5qoC:
-    citations: 27
+    citations: 28
     title: 'Ladder: Revisiting the cosmic distance ladder with deep learning approaches and exploring its applications'
     year: '2024'
   4Jlqf30AAAAJ:ufrVoPGSRksC:
